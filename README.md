@@ -1,6 +1,6 @@
 # Hi, I'm Shantanu Patil 👋
 
-📍 **India** | 🤖 **AI & DevOps Builder** | 🚀 **Full-Stack Developer** | 🎓 **IIT Dhanbad**
+📍 **Austin, TX** | 📧 **shantanupatil1899@gmail.com** | 🤖 **AI & DevOps Builder** | 🚀 **Full-Stack Developer** | 🎓 **M.S. UMass Amherst | IIT Dhanbad**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
